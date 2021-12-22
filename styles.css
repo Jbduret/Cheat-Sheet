@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: LightSteelBlue;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: Blue;
+  text-align: center;
+}
+
+table {
+  border: 2px solid DeepSkyBlue;
+  width: 650px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: LightSkyBlue;
+}
+
+td {
+  border-top: 1px solid DeepSkyBlue;
+}
+
+.code {
+  font-family: monospace;
+  color: Blue;
+}
